@@ -53,7 +53,7 @@ def mainFun():
 	printMSG();	
 	printWish();
 	sleep(3)
-	print("Hope you like this!")
+	print("\u001b[31;1m","Hope you like this! ♥ \u001b[0m")
 
 def playAudio():
 	playsound('song.mp3')
