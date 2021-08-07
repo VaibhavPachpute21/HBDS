@@ -2,41 +2,67 @@ from time import sleep
 from playsound import playsound
 from threading import Thread
 import os
-from termcolor import colored
-from colorama import init, Fore, Back, Style
+# import required module
+from playsound import playsound
 
-audio='bday_song.wav'
+COLORS = {\
+"red": "\u001b[31;1m",
+"green":"\u001b[32;1m",
+"yellow":"\u001b[33;1m",
+"blue":"\u001b[34;1m",
+"magenta":"\u001b[35;1m",
+"cyan": "\u001b[36m",
+"white":"\u001b[37;1m",
+"bred":"\u001b[31;1m",
+"reset":"\u001b[0m",
+}
+        
 
+def colorText(text):
+    for color in COLORS:
+        text = text.replace("[[" + color + "]]", COLORS[color])
+    return text
 
-def playAudio():
-    if playAudio:
-       playsound(audio)
-
-def printWish():
- 	with open('ascii/cake.txt', 'r') as f:
- 		for line in f:
- 		#print("\u001b[31m.".rstrip())
- 			print(line.rstrip())
- 			sleep(0.04)
- 	f.close()
-
- 	sleep(1)
-
+def printMSG():
  	with open('ascii/msg.txt', 'r') as f:
  		for line in f:
- 		#print("\u001b[31m.".rstrip())
- 			print(line.rstrip())
- 			sleep(0.5)
+ 			colorText(line)
+ 			print(colorText(line).rstrip())
+ 			sleep(0.2)
  	f.close()
 
- 	'''with open('ascii/1.txt', 'r') as f:
+
+def printCake():
+ 	with open('ascii/cake.txt', 'r') as f:
  		for line in f:
- 		#print("\u001b[31m.".rstrip())
- 			print(line.rstrip())
- 			sleep(0.04)
- 	f.close()'''
+ 			colorText(line)
+ 			print(colorText(line).rstrip())
+ 			sleep(0.2)
+ 	f.close()
+
+def printWish():
+	with open('ascii/1.txt', 'r') as f:
+		for line in f:
+			colorText(line)
+			print(colorText(line).rstrip())
+			sleep(0.04)
+	f.close()
+
+def mainFun():
+	printCake();
+	printMSG();	
+	printWish();
+	sleep(3)
+	print("Hope you like this!")
+
+def playAudio():
+	playsound('song.mp3')
+	'''if playAudio:
+		playsound('music.mp3')'''
+
 
 
 os.system('cls' if os.name == 'nt' else 'clear')
 Thread(target = playAudio).start()
-Thread(target = printWish).start()
+Thread(target = mainFun).start()
+

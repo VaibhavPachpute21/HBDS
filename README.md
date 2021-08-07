@@ -1,2 +1,3 @@
-# HBD
-This project is to wish someone in coders way
+# new project
+this is first project i'm trying.
+
