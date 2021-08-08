@@ -53,7 +53,11 @@ def mainFun():
 	printMSG();	
 	printWish();
 	sleep(3)
-	print("\u001b[31;1m","Hope you like this! ♥ \u001b[0m")
+	print("\u001b[31;1m","\tFirst of all sorry if i ever give you any trouble...")
+	sleep(1)
+	print("\tActually UR really special so thought i should wish you in geeky way instead of just text ^_^ ")
+	sleep(1)
+	print("\tHope you like this! ♥ \u001b[0m")
 
 def playAudio():
 	playsound('song.mp3')
