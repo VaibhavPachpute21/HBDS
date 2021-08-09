@@ -1,63 +1,60 @@
+[[blue]]                                                                                                                                              
+[[blue]]        ,,,,,,,,,,,,,          [[cyan]]     [[green]]*[[red]]               [[red]]                                                                                         [[green]]        ,,,,,,,,,,,,,          [[reset]] 
+[[blue]]    .;;;;;;;;;;;;;;;;;;;,.     [[cyan]]                     [[red]]                                                                                         [[green]]    .;;;;;;;;;;;;;;;;;;;,.     [[reset]] 
+[[blue]]  .;;;;;;;;;;;;;;;;;;;;;;;;,   [[cyan]]                     [[red]]                                                                                         [[green]]  .;;;;;;;;;;;;;;;;;;;;;;;;,   [[reset]] 
+[[blue]].;;;;;;;;;;;;;;;;;;;;;;;;;;;;. [[cyan]]                     [[red]]                                                                        [[green]]*                [[green]].;;;;;;;;;;;;;;;;;;;;;;;;;;;;. [[reset]] 
+[[blue]];;;;;@;;;;;;;;;;;;;;;;;;;;;;;;'[[cyan]] .............       [[red]]                                                                                         [[green]];;;;;@;;;;;;;;;;;;;;;;;;;;;;;;'[[reset]] 
+[[blue]];;;;@@;;;;;;;;;;;;;;;;;;;;;;;;'[[cyan]].................    [[red]]              [[blue]]*                                                                          [[green]];;;;@@;;;;;;;;;;;;;;;;;;;;;;;;'[[reset]] 
+[[blue]];;;;@@;;;;;;;;;;;;;;;;;;;;;;;;'[[cyan]]...................  [[red]]                                                                                         [[green]];;;;@@;;;;;;;;;;;;;;;;;;;;;;;;'[[reset]] 
+[[blue]]`;;;;@;;;;;;;;;;;;;;;@;;;;;;;'[[cyan]]..................... [[red]]    __  __                               ____   _        __   __         __              [[green]]`;;;;@;;;;;;;;;;;;;;;@;;;;;;;' [[reset]]         
+[[blue]] `;;;;;;;;;;;;;;;;;;;@@;;;;;'[[cyan]]..................;....[[red]]    / / / /____ _ ____   ____   __  __   / __ ) (_)_____ / /_ / /_   ____/ /____ _ __  __[[green]] `;;;;;;;;;;;;;;;;;;;@@;;;;;'  [[reset]]        
+[[blue]]   `;;;;;;;;;;;;;;;;@@;;;;'[[cyan]]....................;;...[[red]]   / /_/ // __ `// __ \ / __ \ / / / /  / __  |/ // ___// __// __ \ / __  // __ `// / / /[[green]]   `;;;;;;;;;;;;;;;;@@;;;;'    [[reset]]        
+[[blue]]     `;;;;;;;;;;;;;@;;;;'[[cyan]]...;.................;;....[[red]]  / __  // /_/ // /_/ // /_/ // /_/ /  / /_/ // // /   / /_ / / / // /_/ // /_/ // /_/ / [[green]]     `;;;;;;;;;;;;;@;;;;'      [[reset]]        
+[[blue]]        `;;;;;;;;;;;;'   [[cyan]]...;;...............;..... [[red]] /_/ /_/ \__,_// .___// .___/ \__, /  /_____//_//_/    \__//_/ /_/ \__,_/ \__,_/ \__, /  [[green]]        `;;;;;;;;;;;;'         [[reset]]        
+[[blue]]           `;;;;;;'        [[cyan]]...;;..................  [[red]]              /_/    /_/     /____/                                             /____/   [[green]]           `;;;;;;'            [[reset]]        
+[[blue]]              ;;              [[cyan]]..;...............    [[red]]                                                                                         [[green]]              ;;               [[reset]] 
+[[blue]]              `                [[cyan]]  ............       [[red]]           _____         __                                                              [[green]]              `                [[reset]] 
+[[blue]]             `                 [[cyan]]     ......          [[red]]          / ___/ ____ _ / /____   ____   ___   ___                                       [[green]]             `                 [[reset]] 
+[[blue]]            `                  [[cyan]]       ..            [[red]]          \__ \ / __ `// // __ \ / __ \ / _ \ / _ \                                      [[green]]            `                  [[reset]] 
+[[blue]]           `                   [[cyan]]        '            [[red]]         ___/ // /_/ // // /_/ // / / //  __//  __/                                      [[green]]           `                   [[reset]] 
+[[blue]]          `                    [[cyan]]       '             [[red]]        /____/ \__,_//_/ \____//_/ /_/ \___/ \___/                                       [[green]]          `                    [[reset]] 
+[[blue]]         `                     [[cyan]]      '              [[red]]                                                                                         [[green]]         `                     [[reset]] 
+[[blue]]        `                      [[cyan]]     `               [[red]]                                                 [[blue]]*[[green]]                                       [[green]]        `                      [[reset]] 
+[[blue]]        `                      [[cyan]]     `,              [[red]]                                                                                         [[green]]        `                      [[reset]] 
+[[blue]]        `                      [[cyan]]                     [[red]]                                                                                         [[green]]        `                      [[reset]] 
+[[blue]]         `                     [[cyan]]                     [[red]]                                                                                         [[green]]         `                     [[reset]] 
+[[blue]]           `.                  [[cyan]]                     [[red]]                                                                                         [[green]]           `.                  [[reset]] 
 
-[[cyan]]	                                                                                                           [[reset]]
-[[cyan]]	happy          happy       happyhappy    happyhappyhappyhap     happyhappyhappyhap     happy         happy [[reset]]
-[[cyan]]	happy          happy      happy happy    happyhappyhappyhapp    happyhappyhappyhapp     happy       happy  [[reset]]
-[[cyan]]	happy          happy     happy   happy   happy          happy   happy          happy     happy     happy   [[reset]]
-[[cyan]]	happy          happy    happy     happy  happy          happy   happy          happy      happy   happy    [[reset]]
-[[cyan]]	happyhappyhappyhappy    happyhappyhappy  happyhappyhappyhapp    happyhappyhappyhapp        happyhappy      [[reset]]
-[[cyan]]	happyhappyhappyhappy    happyhappyhappy  happyhappyhappyhap     happyhappyhappyhap          happyhap       [[reset]]
-[[cyan]]	happy          happy    happy     happy  happy                  happy                         happy        [[reset]]
-[[cyan]]	happy          happy    happy     happy  happy                  happy                         happy        [[reset]]
-[[cyan]]	happy          happy    happy     happy  happy                  happy                         happy        [[reset]]
-[[cyan]]	happy          happy    happy     happy  happy                  happy                         happy        [[reset]]
-[[cyan]]	happy          happy    happy     happy  happy                  happy                         happy        [[reset]]
-[[cyan]]	                                                                                                           [[reset]]
-[[blue]]	                                                                                                                                 [[reset]]
-[[blue]]	bbbbbbbbbbbbbbbbbb   iii  rrrrrrrrrrrrrr    TTTT        TTTT HHHHHHHHHHHHHHHH DDDDDDDDDDDDDDD            AAAAAA   YYY        YYY [[reset]]
-[[blue]]	bbbbbbbbbbbbbbbbbbb  iii  rrrrrrrrrrrrrrr   TTTT        TTTT HHHHHHHHHHHHHHHH DDDDDDDDDDDDDDDDD         AAAA AAA   YYY      YYY  [[reset]]
-[[blue]]	bbbbb          bbbbb      rrrr        rrrr  TTTT        TTTT       HHHH           DDDD      DDDD       AAAA  AAAA   YYY    YYY   [[reset]]
-[[blue]]	bbbbb          bbbbb iii  rrrr        rrrr  TTTT        TTTT       HHHH           DDDD       DDDD     AAAA    AAAA    YYY YYY    [[reset]]
-[[blue]]	bbbbb          bbbbb iii  rrrr        rrrr  TTTT        TTTT       HHHH           DDDD        DDDD    AAAA     AAAA    YYYYYY    [[reset]]
-[[blue]]	bbbbbbbbbbbbbbbbbb   iii  rrrrrrrrrrrrrrr   TTTTTTTTTTTTTTTT       HHHH           DDDD         DDDD  AAAAAAAAAAAAAA     YYYY     [[reset]]
-[[blue]]	bbbbbbbbbbbbbbbbbb   iii  rrrrrrrrrrrrrrr   TTTTTTTTTTTTTTTT       HHHH           DDDD         DDDD  AAAAAAAAAAAAAA     YYY      [[reset]]
-[[blue]]	bbbbb          bbbbb iii  rrrr        rrrr  TTTT        TTTT       HHHH           DDDD        DDDD   AAAA      AAAA     YYY      [[reset]]
-[[blue]]	bbbbb          bbbbb iii  rrrr        rrrr  TTTT        TTTT       HHHH           DDDD       DDDD    AAAA      AAAA     YYY      [[reset]]
-[[blue]]	bbbbb          bbbbb iii  rrrr        rrrr  TTTT        TTTT       HHHH           DDDD      DDDD     AAAA      AAAA     YYY      [[reset]]
-[[blue]]	bbbbbbbbbbbbbbbbbbb  iii  rrrr        rrrr  TTTT        TTTT       HHHH       DDDDDDDDDDDDDDDDD      AAAA      AAAA     YYY      [[reset]]
-[[blue]]	bbbbbbbbbbbbbbbbbb   iii  rrrr        rrrr  TTTT        TTTT       HHHH       DDDDDDDDDDDDDDDD       AAAA      AAAA     YYY      [[reset]]
-[[blue]]	                                                                                                                                 [[reset]]
-[[red]]                                                                                            
-                                                    .,,;;;;,,,.         .,,,.                      
-                                          ,;;<!!!;> ,<!!!!!!!!!!!!!!!>:  :!!!!!!!!!!,              
-                                        ;!!!',, ``,>' .,,.`'''````''!!!!>.`!`,,`'!!!!!             
-                                        !!!  3$% ;'.c$??$$$uu$$$?$$$ec.`!!!  d$$  `!!!!            
-                                         !!>.`".;>.d"   ?$$$$$$   `?$$$% <!!> ?$$  !!!!            
-                                         `!!',!!! $$c,,c$?????$c, ,d$$$   !!!! " ,!!!'             
-                                          '';!!!! "R$$$b=="""==d$$$$$$" <!!!!!; '''                
-                                           !!!!;`,cd$$F        `$$$$c. <!!!!!!!!>.                 
-                                          '!!;! `$$$$$$c,.  .,c$$$$$$F% !!!!!!;;!!                 
-                                           `<!!>' $$$$?$$$$$$$F?$$$$$% :!!!!!!!!;;                 
-                                            `_._` "$$$b,"?$P",z$P"_.,-,,._``'!!!'                  
-                                      _,-+'''   ``"-+,""?eee$$F,-'        ``"--,                   
-                               .,,. ,'                `".`"",+'                 `+.                
-                             ;!!!!!!!;                   `\/                       +               
-                            ;!!!!!!!!;                                              `.             
-                            !!!!!!!!!'                                               )             
-                           `!!!!!!!!!                                                :             
-                            ``!!'                        Happy                   :<!!!!!>          
-                              ` :                                                ,!!!!!!!>         
-                                (                      Birthday                  `!!!!!!!!>        
-                                 \                                               !!!!!!!!!         
-                                  \                                               `!!!!!           
-                          ,;<!!!!!,`.                                            ,'`''  .,,,,.     
-                         <!!!!!!!!!!.\                                          /    :!!!!!!!!!>   
-                         !!''`'!!!!!!>`\                                      /',: :!!!!!!!!!!!!!; 
-                        `!<$$$$ec`<!!!!>`\                                  ,',!!'.!!!!!!!!!!!!!!! 
-                          :$$$$$$bc`!!!!!>`\                              ,',<!!!!!!!!!'.,,.`<!!!  
-                            "?$$$$$b`!!!!!!,`\                          ,',<!!!!!!!!!'4$$$$$F:!'   
-                            ': `3$$$L'!!!!!!!,`\                      /',<!!!!!!!!!!! d$P"" /'     
-                            '-J.$$$$  !!!!!!!!!,`+.                ,+';!!!!!!!!!!!!!'$$$C. /       
-                             `'?$$$%:!!!!!!!!!!!`  `+_           ,'     `'<!!!!!!!!! ?$$P ;        
-                               `-,,:!!!!!!!!!'        +.      ,-'          `''!!!!!!,,",;!         
-                                 ``'''``                `-,,+'                `'!!!!!!!'           
-                                                                                                   
+                 [[yellow]]                                                    .,,;;;;,,,.         .,,,.                                             
+                                                           ,;;<!!!;> ,<!!!!!!!!!!!!!!!>:  :!!!!!!!!!!,                                               
+                                                         ;!!!',, ``,>' .,,.`'''````''!!!!>.`!`,,`'!!!!!                                              
+                                                         !!!  3$% ;'.c$??$$$uu$$$?$$$ec.`!!!  d$$  `!!!!              [[green]]*[[yellow]]                              
+                                           [[blue]]*[[yellow]]              !!>.`".;>.d"   ?$$$$$$   `?$$$% <!!> ?$$  !!!!                                             
+                                                          `!!',!!! $$c,,c$?????$c, ,d$$$   !!!! " ,!!!'                                              
+                                                           '';!!!! "R$$$b=="""==d$$$$$$" <!!!!!; '''                                                 
+                                                            !!!!;`,cd$$F        `$$$$c. <!!!!!!!!>.                                                  
+                                                           '!!;! `$$$$$$c,.  .,c$$$$$$F% !!!!!!;;!!                                                  
+                      [[green]]*[[yellow]]                                     `<!!>' $$$$?$$$$$$$F?$$$$$% :!!!!!!!!;;                                                  
+                                                           [[red]]  `_._` [[yellow]]"$$$b,"?$P",z$P"[[red]]_.,-,,._[[yellow]]``'!!!'                  
+                                                      [[red]] _,-+'''   ``"-+,[[yellow]]""?eee$$F,[[red]]-'        ``"--,[[yellow]]                  
+                                                .,,. [[red]],'                `".[[yellow]]`"",[[red]]+'                 `+.[[yellow]]                
+                                              ;!!!!!!!;                   [[red]]`\/                       + [[yellow]]                              
+                                             ;!!!!!!!!;                                              `.[[yellow]]                                    
+                                             !!!!!!!!!'                                               )[[yellow]]                              
+                                            `!!!!!!!!!                                                :[[yellow]]                       [[blue]]*[[yellow]]             
+                                             ``!!'                                                :<!!!!!>                                           
+                                               `[[red]] :                 Happy                   [[yellow]]        ,!!!!!!!>                         
+                                                 [[red]](                      Birthday          [[yellow]]        `!!!!!!!!>                        
+                                                  [[red]]\                                       [[yellow]]        !!!!!!!!!                         
+                                                  [[red]] \                                      [[yellow]]         `!!!!!                           
+                                           ,;<!!!!!,[[red]]`.                                            ,[[yellow]]'`''  .,,,,.                      
+                                          <!!!!!!!!!!.[[red]]\                                          /[[yellow]]    :!!!!!!!!!>                   
+                                          !!''`'!!!!!!>[[red]]`\                                      /'[[yellow]],: :!!!!!!!!!!!!!;                 
+                                         `!<$$$$ec`<!!!!>[[red]]`\                                  ,[[yellow]]',!!'.!!!!!!!!!!!!!!!                 
+                                           :$$$$$$bc`!!!!!>[[red]]`\                              ,'[[yellow]],<!!!!!!!!!'.,,.`<!!!                  
+                                             "?$$$$$b`!!!!!!,[[red]]`\                          ,'[[yellow]],<!!!!!!!!!'4$$$$$F:!'                   [[green]]*[[yellow]]
+                                             ': `3$$$L'!!!!!!!,[[red]]`\                      /'[[yellow]],<!!!!!!!!!!! d$P"" /'                     
+                                             '-J.$$$$  !!!!!!!!!,[[red]]`+.                ,+[[yellow]]';!!!!!!!!!!!!!'$$$C. /                       
+                                              `'?$$$%:!!!!!!!!!!!`  [[red]]`+_           ,[[yellow]]'     `'<!!!!!!!!! ?$$P ;                        
+                    [[green]]*[[yellow]]                           `-,,:!!!!!!!!!'        [[red]]+.      ,-'[[yellow]]          `''!!!!!!,,",;!                         
+                                                  ``'''``                [[red]]`-,,+' [[yellow]]               `'!!!!![[reset]]                        

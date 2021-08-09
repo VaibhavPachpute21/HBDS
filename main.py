@@ -28,7 +28,7 @@ def printMSG():
  		for line in f:
  			colorText(line)
  			print(colorText(line).rstrip())
- 			sleep(0.2)
+ 			sleep(0.5)
  	f.close()
 
 
@@ -37,7 +37,7 @@ def printCake():
  		for line in f:
  			colorText(line)
  			print(colorText(line).rstrip())
- 			sleep(0.2)
+ 			sleep(0.5)
  	f.close()
 
 def printWish():
@@ -45,12 +45,14 @@ def printWish():
 		for line in f:
 			colorText(line)
 			print(colorText(line).rstrip())
-			sleep(0.04)
+			sleep(0.2)
 	f.close()
 
 def mainFun():
 	printCake();
-	printMSG();	
+	sleep(0.8)
+	printMSG();
+	sleep(0.8)	
 	printWish();
 	sleep(3)
 	print("\u001b[31;1m","\tFirst of all sorry if i ever give you any trouble...")
